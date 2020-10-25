@@ -1,5 +1,8 @@
 # Standard Contributing
 
+[![GitHub](https://img.shields.io/github/license/zrzjohn/standard-contributing)](https://github.com/zrzjohn/standard-contributing/blob/master/LICENSE) [![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing) 
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 A standard style for CONTRIBUTING files.
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
@@ -10,29 +13,39 @@ A CONTRIBUTING file tells your audience how to participate in your project. For 
 
 (The above is from the [Open Source Guides](http://opensource.guide/))
 
-## Table of Contents
+## Contents
 
 - [Usage](#usage)
 - [Badge](#badge)
-- [Maintainers](#maintainers)
 - [Contributing](#contributing)
+	- [Maintainers](#maintainers)
 - [License](#license)
 
 ## Usage
 
 [Download me](https://github.com/zrzjohn/standard-contributing/releases) and edit CONTRIBURING.md file.
 
-## Maintrainers
+## Badge
 
-[Zuorong Zhang](https://github.com/zrzjohn), 
+If you use Standart Contributing in your project, we strongly recommend that you add this badge to your project readme.
+
+[![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing)
+
+To add in Markdown format, use this code:
+
+```markdown
+[![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing)
+```
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/zrzjohn/standard-contributing/issues/new) or submit pull requests.
-
-You should follows the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) Code of Conduct.
+Welcome! [Open an issue](https://github.com/zrzjohn/standard-contributing/issues/new) or submit pull requests.You should follows the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) Code of Conduct.
 
 This project exists thanks to all [contributers](https://github.com/zrzjohn/standard-contributing/graphs/contributors).
+
+### Maintrainers
+
+[Zuorong Zhang](https://github.com/zrzjohn), 
 
 ## License
 
