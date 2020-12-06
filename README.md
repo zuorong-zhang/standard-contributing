@@ -1,6 +1,5 @@
 # Standard Contributing
 
-[![Standard Contributing](https://img.shields.io/github/license/zrzjohn/standard-contributing)](https://github.com/zrzjohn/standard-contributing/blob/master/LICENSE) [![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing) 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 A standard style for CONTRIBUTING files.
