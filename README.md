@@ -33,7 +33,7 @@ If you use Standart Contributing in your project, we strongly recommend that you
 To add in Markdown format, use this code:
 
 ```markdown
-[![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing)
+[![Sdandard Contributing](https://img.shields.io/badge/standard-contributing-orange)](https://github.com/zrzjohn/standard-contributing) [![Join the chat at https://gitter.im/standard-contributing/community](https://badges.gitter.im/standard-contributing/community.svg)](https://gitter.im/standard-contributing/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ```
 
 ## Contributing
