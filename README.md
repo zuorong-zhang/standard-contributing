@@ -2,15 +2,12 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
+[![Gitter](https://badges.gitter.im/standard-contributing/community.svg)](https://gitter.im/standard-contributing/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
 A standard style for CONTRIBUTING files.
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
-
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
-
-(The above is from the [Open Source Guides](http://opensource.guide/))
+A CONTRIBUTING file tells your audience how to participate in your project.
 
 ## Contents
 
