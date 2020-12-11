@@ -1,8 +1,6 @@
 # Standard Contributing
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-[![Gitter](https://badges.gitter.im/standard-contributing/community.svg)](https://gitter.im/standard-contributing/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) [![Gitter](https://badges.gitter.im/standard-contributing/community.svg)](https://gitter.im/standard-contributing/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 A standard style for CONTRIBUTING files.
