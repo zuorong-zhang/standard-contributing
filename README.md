@@ -17,7 +17,7 @@ A CONTRIBUTING file tells your audience how to participate in your project.
 
 ## Usage
 
-[Download me](https://github.com/zrzjohn/standard-contributing/releases) and edit CONTRIBURING.md file.
+[Download a release](https://github.com/zrzjohn/standard-contributing/releases) and edit CONTRIBURING.md file.
 
 ## Badge
 
